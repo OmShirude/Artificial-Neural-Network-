@@ -1,0 +1,13 @@
+# Core Python scientific stack
+numpy
+pandas
+matplotlib
+seaborn
+tabulate
+
+# Machine learning
+scikit-learn
+
+# Deep learning
+tensorflow
+keras
